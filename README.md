@@ -314,20 +314,7 @@ USER ENTERS PROPERTY DETAILS
 
 ---
 
-## 🚀 FUTURE IMPROVEMENTS
 
-- 📊 Add detailed model performance metrics
-- 🔄 Compare multiple Machine Learning algorithms
-- 📈 Add prediction visualizations
-- 🗺️ Add map-based location selection
-- 📱 Improve responsive design
-- 🗄️ Add database integration
-- 👤 Add user authentication
-- ☁️ Deploy the application online
-- 📜 Add prediction history
-- 📊 Add real estate market analytics
-
----
 
 ## 🎓 LEARNING OUTCOMES
 
@@ -355,24 +342,7 @@ Through this project, I gained practical experience in building an end-to-end Ma
 
 ---
 
-## 📸 APPLICATION SCREENSHOTS
 
-Add screenshots of the application to a `screenshots` folder.
-
-Example:
-
-```markdown
-![Home Page](screenshots/home-page.png)
-```
-
-You can add screenshots such as:
-
-- Home Page
-- Property Input Section
-- Location Selection
-- Price Prediction Result
-
----
 
 ## 👩‍💻 AUTHOR
 
@@ -383,7 +353,3 @@ BE Computer Engineering Student
 **Aspiring Data Analyst | Machine Learning | Python | SQL | Power BI**
 
 ---
-
-## ⭐ SUPPORT
-
-If you found this project useful, consider giving the repository a ⭐ star.
