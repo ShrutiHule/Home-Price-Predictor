@@ -172,11 +172,9 @@ location = "Rajaji Nagar"
 - HTML5
 - CSS3
 - JavaScript
-- jQuery
 - JSON
 - Pickle
 - PyCharm
-- Git
 - GitHub
 
 ---
@@ -212,7 +210,7 @@ The notebook contains the development process from data preparation and cleaning
 ## 📂 PROJECT STRUCTURE
 
 ```text
-Real-Estate-Price-Prediction/
+ML Project/
 │
 ├── Client/
 │   ├── app.html
@@ -230,7 +228,7 @@ Real-Estate-Price-Prediction/
 │   ├── server.py
 │   └── util.py
 │
-├── .gitignore
+
 └── README.md
 ```
 
@@ -314,20 +312,6 @@ USER ENTERS PROPERTY DETAILS
 
 ---
 
-## 🚀 FUTURE IMPROVEMENTS
-
-- 📊 Add detailed model performance metrics
-- 🔄 Compare multiple Machine Learning algorithms
-- 📈 Add prediction visualizations
-- 🗺️ Add map-based location selection
-- 📱 Improve responsive design
-- 🗄️ Add database integration
-- 👤 Add user authentication
-- ☁️ Deploy the application online
-- 📜 Add prediction history
-- 📊 Add real estate market analytics
-
----
 
 ## 🎓 LEARNING OUTCOMES
 
@@ -335,44 +319,6 @@ Through this project, I gained practical experience in building an end-to-end Ma
 
 ---
 
-## 🚀 SKILLS DEMONSTRATED
-
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis
-- Feature Engineering
-- Outlier Handling
-- Machine Learning
-- Model Evaluation
-- Python Programming
-- Flask API Development
-- REST API Integration
-- HTML
-- CSS
-- JavaScript
-- Frontend-Backend Integration
-- Git & GitHub
-
----
-
-## 📸 APPLICATION SCREENSHOTS
-
-Add screenshots of the application to a `screenshots` folder.
-
-Example:
-
-```markdown
-![Home Page](screenshots/home-page.png)
-```
-
-You can add screenshots such as:
-
-- Home Page
-- Property Input Section
-- Location Selection
-- Price Prediction Result
-
----
 
 ## 👩‍💻 AUTHOR
 
