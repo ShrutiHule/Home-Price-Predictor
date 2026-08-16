@@ -10,7 +10,7 @@ The project includes data cleaning and preprocessing using Jupyter Notebook, Mac
 
 ## 🖥️ APPLICATION PREVIEW
 
-![Real Estate Price Prediction](Project-preview.jpg)
+![Real Estate Price Prediction](Project-preview.png)
 
 The web application allows users to enter property details and get an estimated property price.
 
